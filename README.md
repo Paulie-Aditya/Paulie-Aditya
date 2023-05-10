@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>🔭 Currently a student at Vellore Institute of Technology, Bhopal pursuing BTech CSE.<br>🌱 Currently Learning C. Have learnt Java and Python.<br>💬 Interested in ML and hope to pursue it in the future.<br>⚡ Always exploring new opportunities and learning!
 
 
