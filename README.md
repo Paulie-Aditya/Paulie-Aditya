@@ -26,4 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulie-aditya&show_icons=true&locale=en&layout=compact" alt="paulie-aditya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulie-aditya&show_icons=true&locale=en" alt="paulie-aditya" /></p>
 
+
 [![An image of @paulieaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulieaditya)](https://holopin.io/@paulieaditya)
