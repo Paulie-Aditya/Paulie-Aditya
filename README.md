@@ -70,8 +70,9 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulie-aditya&show_icons=true&locale=en&layout=compact" alt="paulie-aditya" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulie-aditya&show_icons=true&locale=en" alt="paulie-aditya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulie-Aditya&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="paulie-aditya" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulie-Aditya&theme=dark&hide_border=true" alt="paulie-aditya" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paulie-Aditya&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="paulie-aditya" /></p>
 
 
 [![An image of @paulieaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulieaditya)](https://holopin.io/@paulieaditya)
