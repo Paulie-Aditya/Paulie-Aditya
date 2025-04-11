@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Paul</h1>
-<h3 align="center">A College Student eager to learn and explore new opportunities.</h3>
+<h3 align="center">AI ML Engineer, Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack, ML and DL**
+- 🚀 I’m currently building [@GetLangify](https://github.com/getLangify)
 
-- 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/paulie_aditya)
-
-- 💬 Ask me about **Python, Java and C**
+- 💬 Ask me about **AI/ML and Full Stack Web Development**
 
 - 📫 How to reach me **paul.aditya304@gmail.com**
 
