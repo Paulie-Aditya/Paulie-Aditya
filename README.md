@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Paul</h1>
 <h3 align="center">AI ML Engineer, Full Stack Developer</h3>
 
-- 🚀 I’m currently building [@GetLangify](https://github.com/getLangify)
+- 🚀 I’m currently building [@GetLangify](https://github.com/getLangify) & [@SignSenseAI](https://github.com/SignSenseAI)
 
 - 💬 Ask me about **AI/ML and Full Stack Web Development**
 
